@@ -15,7 +15,7 @@ export PATH="${GRAILS_HOME}/bin:${PATH}"
 export GRADLE_HOME="/Users/anthonycuevas/Documents/DevSoftware/gradle-1.3"
 export PATH="${GRADLE_HOME}/bin:${PATH}"
 
-export ANDROID_HOME='brew --prefix android'
+export ANDROID_HOME="/Applications/android-sdk"
 
 export PATH="${ANDROID_HOME}/tools:${ANDROID_HOME}/platform-tools:${PATH}"
 
